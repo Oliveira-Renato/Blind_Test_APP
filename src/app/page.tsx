@@ -27,7 +27,7 @@ export default function Home() {
             height={37}
             priority
           />
-          <h1 className="ml-3 text-3xl font-semibold">BLIND TEST</h1>
+          <h1 className="ml-3 text-3xl font-bold">BLIND TEST</h1>
         </div>
       </div>
 
